@@ -1,8 +1,22 @@
-## Welcome to GitHub Pages
+## About Me
+I am a second-year Ph.D. student at Shanghai University of Finance and Economics (SUFE). Currently I am interested in anomaly detection (AD) .
 
-You can use the [editor on GitHub](https://github.com/Minqi824/minqi.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Pulications
+See my [Google Scholar](https://scholar.google.com/citations?user=OBdS69UAAAAJ&hl=en)
+## Working Papers
+Han Songqiao, Xiyang Hu, Hailiang Huang, Mingqi Jiang, and Yue Zhao. "ADBench: Anomaly Detection Benchmark." Under submission at NeurIPS 2022. Preprint.  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Peer-reviewed Papers
+Jiang Minqi, Jiapeng Liu, Lu Zhang, and Chunyu Liu. "An improved Stacking framework for stock index prediction by leveraging tree-based ensemble models and deep learning algorithms." Physica A: Statistical Mechanics and its Applications 541 (2020): 122272.  
+Jiang Minqi, Jiapeng Liu, and Lu Zhang. "An extended regularized Kalman filter based on Genetic Algorithm: Application to dynamic asset pricing models." The Quarterly Review of Economics and Finance 79 (2021): 28-44.  
+Jiang Minqi, Jiapeng Liu, and Lu Zhang. "AN IMPROVED STACKING FRAMEWORK FOR PREDICTING STOCK PRICE INDEX DIRECTION." Economic Computation & Economic Cybernetics Studies & Research 53, no. 3 (2019).  
+
+
+
+### Interests
+- 
+
+
 
 ### Markdown
 
