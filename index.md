@@ -1,5 +1,5 @@
 ## About Me
-I am a second-year Ph.D. student at Shanghai University of Finance and Economics (SUFE). Currently I am interested in anomaly detection (AD).
+I am a second-year Ph.D. student at Shanghai University of Finance and Economics (SUFE). Currently I am interested in anomaly detection / outlier detection.
 
 ### Pulications
 See my [Google Scholar](https://scholar.google.com/citations?user=OBdS69UAAAAJ&hl=en)
