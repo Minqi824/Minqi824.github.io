@@ -1,6 +1,7 @@
 ## About Me
-I am a second-year Ph.D. student at Shanghai University of Finance and Economics (SUFE). Currently I am interested in anomaly detection / outlier detection.
+I am a second-year Ph.D. student at Shanghai University of Finance and Economics (SUFE). Currently I am interested in anomaly detection / outlier detection.  
 
+***
 ### Pulications
 See my [Google Scholar](https://scholar.google.com/citations?user=OBdS69UAAAAJ&hl=en)
 #### Working Papers
@@ -16,3 +17,7 @@ See my [Google Scholar](https://scholar.google.com/citations?user=OBdS69UAAAAJ&h
 - Out-of-distribution (OOD) detection
 - Anomaly detection benchmarks
 
+### Contact Me
+- jiangmq95@163.com
+- [知乎: 芝士确实是热量](https://www.zhihu.com/people/jiang-min-qi-56)
+- [Github: Minqi824](https://github.com/Minqi824)
