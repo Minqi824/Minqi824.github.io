@@ -1,9 +1,10 @@
 ## About Me
-I am a second-year Ph.D. student at Shanghai University of Finance and Economics (SUFE). Currently I am interested in anomaly detection / outlier detection.  
+I am a second-year Ph.D. student at [Shanghai University of Finance and Economics (SUFE)](Shanghai University of Finance and Economics (SUFE)). 
+Currently I am interested in anomaly detection / outlier detection.  
 
 ***
 ### Pulications
-See my [Google Scholar](https://scholar.google.com/citations?user=OBdS69UAAAAJ&hl=en)
+See my [Google Scholar](https://scholar.google.com/citations?user=OBdS69UAAAAJ&hl=en). 
 #### Working Papers
 [[**PDF**]](https://arxiv.org/abs/2206.09426) Han Songqiao, Xiyang Hu, Hailiang Huang, Mingqi Jiang, and Yue Zhao. "ADBench: Anomaly Detection Benchmark." Under submission at NeurIPS 2022. Preprint.  
 
