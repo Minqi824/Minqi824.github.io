@@ -1,5 +1,5 @@
 ## About Me
-I am a second-year Ph.D. student at Shanghai University of Finance and Economics (SUFE). Currently I am interested in anomaly detection (AD) .
+I am a second-year Ph.D. student at Shanghai University of Finance and Economics (SUFE). Currently I am interested in anomaly detection (AD).
 
 ### Pulications
 See my [Google Scholar](https://scholar.google.com/citations?user=OBdS69UAAAAJ&hl=en)
@@ -7,7 +7,7 @@ See my [Google Scholar](https://scholar.google.com/citations?user=OBdS69UAAAAJ&h
 Han Songqiao, Xiyang Hu, Hailiang Huang, Mingqi Jiang, and Yue Zhao. "ADBench: Anomaly Detection Benchmark." Under submission at NeurIPS 2022. Preprint.  
 
 ## Peer-reviewed Papers
-Jiang Minqi, Jiapeng Liu, Lu Zhang, and Chunyu Liu. "An improved Stacking framework for stock index prediction by leveraging tree-based ensemble models and deep learning algorithms." Physica A: Statistical Mechanics and its Applications 541 (2020): 122272.  
+[PDF]()Jiang Minqi, Jiapeng Liu, Lu Zhang, and Chunyu Liu. "An improved Stacking framework for stock index prediction by leveraging tree-based ensemble models and deep learning algorithms." Physica A: Statistical Mechanics and its Applications 541 (2020): 122272.  
 Jiang Minqi, Jiapeng Liu, and Lu Zhang. "An extended regularized Kalman filter based on Genetic Algorithm: Application to dynamic asset pricing models." The Quarterly Review of Economics and Finance 79 (2021): 28-44.  
 Jiang Minqi, Jiapeng Liu, and Lu Zhang. "AN IMPROVED STACKING FRAMEWORK FOR PREDICTING STOCK PRICE INDEX DIRECTION." Economic Computation & Economic Cybernetics Studies & Research 53, no. 3 (2019).  
 
