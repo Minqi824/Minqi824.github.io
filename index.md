@@ -39,4 +39,4 @@ Yue, Yupeng Wu. "How Close is ChatGPT to Human Experts? Comparison Corpus, Evalu
 - :email: jiangmq95@163.com
 - [知乎: 芝士确实是热量](https://www.zhihu.com/people/jiang-min-qi-56)
 - :octocat: [Github: Minqi824](https://github.com/Minqi824)
-- **CV**: [English Version]() / [Chinese Version]()
+- **CV**: [English Version](Minqi_CV_English.pdf) / [Chinese Version](Minqi_CV_Chinese.pdf)
