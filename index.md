@@ -1,5 +1,5 @@
 ## About Me
-I am a second-year Ph.D. student at [Shanghai University of Finance and Economics (SUFE)](Shanghai University of Finance and Economics (SUFE)). 
+I am a third-year Ph.D. student at [Shanghai University of Finance and Economics (SUFE)](Shanghai University of Finance and Economics (SUFE)). 
 Currently I am interested in **Anomaly Detection** and **Quantitative Investment**.  
 
 ***
