@@ -1,21 +1,19 @@
 ## About Me
-I am a third-year Ph.D. student at [Shanghai University of Finance and Economics (SUFE)](Shanghai University of Finance and Economics (SUFE)). 
-Currently I am interested in **Anomaly Detection** and **Quantitative Investment**.  
+I am a third-year Ph.D. student at [Shanghai University of Finance and Economics (SUFE)](https://www.sufe.edu.cn/). 
+Currently I am actively seeking employment opportunities in the field of quantitative investment/risk management. If you are interested, please contact me (and find my CV below).
 
 ***
 ### Pulications
 See my [Google Scholar](https://scholar.google.com/citations?user=OBdS69UAAAAJ&hl=en). 
-#### Preprints & Under Submission
-[[**PDF**]](https://arxiv.org/abs/2302.04549) Minqi Jiang*, Chaochuan Hou*, Ao Zheng*, Xiyang Hu*, Songqiao Han, Hailiang Huang, Xiangnan He, Philip S. Yu, Yue Zhao. "Weakly Supervised Anomaly Detection: A Survey."  
-(\*equal contribution)  
-
-
-[[**PDF**]](https://arxiv.org/abs/2301.07597) Biyang Guo*, Xin Zhang*, Ziyuan Wang*, Minqi Jiang*, Jinran Nie*, Yuxuan Ding, Jianwei
-Yue, Yupeng Wu. "How Close is ChatGPT to Human Experts? Comparison Corpus, Evaluation, and Detection."  
-(\*equal contribution)  
-
 
 #### Peer-reviewed Papers
+[[**PDF**]](https://arxiv.org/abs/2301.07597) Biyang Guo*, Xin Zhang*, Ziyuan Wang*, Minqi Jiang*, Jinran Nie*, Yuxuan Ding, Jianwei
+Yue, Yupeng Wu. "How Close is ChatGPT to Human Experts? Comparison Corpus, Evaluation, and Detection." International Joint Conference on Artificial Intelligence (IJCAI)@LLM Workshop, 2023.  
+(\*equal contribution)  
+
+[[**PDF**]]() Minqi Jiang, Songqiao Han and Hailiang Huang. "Anomaly Detection with Score Distribution Discrimination." SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2023.  
+(\*equal contribution)  
+
 [[**PDF**]](https://arxiv.org/abs/2206.09426) Han Songqiao*, Xiyang Hu*, Hailiang Huang*, Mingqi Jiang*, and Yue Zhao*. "ADBench: Anomaly Detection Benchmark." Advances in Neural Information Processing Syste (NeurIPS), 2022.  
 (\*equal contribution)  
 
@@ -27,6 +25,10 @@ Yue, Yupeng Wu. "How Close is ChatGPT to Human Experts? Comparison Corpus, Evalu
 
 
 [[**PDF**]](https://web.p.ebscohost.com/abstract?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=0424267X&AN=139043153&h=ggCvHvtJmIlD0UKxuOy5bIVMJASAG%2f4%2f4xJyGB3KmvaLYF6NH9pFNkD2pOCNlyypD5NyEs7ABzOJUQeezqKH5A%3d%3d&crl=c&resultNs=AdminWebAuth&resultLocal=ErrCrlNotAuth&crlhashurl=login.aspx%3fdirect%3dtrue%26profile%3dehost%26scope%3dsite%26authtype%3dcrawler%26jrnl%3d0424267X%26AN%3d139043153) Jiang Minqi, Jiapeng Liu, and Lu Zhang. "AN IMPROVED STACKING FRAMEWORK FOR PREDICTING STOCK PRICE INDEX DIRECTION." Economic Computation & Economic Cybernetics Studies & Research 53, no. 3 (2019).  
+
+#### Preprints & Under Submission
+[[**PDF**]](https://arxiv.org/abs/2302.04549) Minqi Jiang*, Chaochuan Hou*, Ao Zheng*, Xiyang Hu*, Songqiao Han, Hailiang Huang, Xiangnan He, Philip S. Yu, Yue Zhao. "Weakly Supervised Anomaly Detection: A Survey."  
+(\*equal contribution)  
 
 ### Interests
 - **Semi- / Weakly- Anoamly Detection Algorithms**
